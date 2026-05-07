@@ -83,17 +83,3 @@ Las stores y el servicio de IA están pensados para ser reemplazados por llamada
 1. Crea una rama con nombre descriptivo: `feature/nombre`.
 2. Haz commits claros y pequeños.
 3. Abre un Pull Request describiendo los cambios.
-
-## Licencia
-
-Licencia MIT — adaptarla según tus necesidades.
-
----
-
-Si quieres, puedo:
-
-- Añadir badges (build/coverage) y enlaces CI.
-- Expandir la sección de despliegue (Docker / Netlify / Vercel).
-- Traducir a inglés o generar un `README_en.md`.
-
-Dime qué prefieres.
